@@ -56,7 +56,7 @@ The API Base URL and Bearer Token are managed in the properties file:
 base.url=[https://gorest.co.in](https://gorest.co.in)
 auth.token=YOUR_ACCESS_TOKEN_HERE
 ```
-## 📸 Execution Proof (Screenshots)
+## Execution Proof (Screenshots)
 
 ### 1. IntelliJ Test Results (Green Checkmarks)
 ![IntelliJ Results](screenshots/Testcases_passed.png)
